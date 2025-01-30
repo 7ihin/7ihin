@@ -1,0 +1,17 @@
+{
+  "name": "7ihin",
+  "version": "1.0.0",
+  "description": "Hello, I'm Kwon Minjae.\r I'm a developer passionate about robotics, AI, and software engineering.",
+  "main": "readmeUpdate.js",
+  "type":"module",
+  "scripts": {
+    "start": "node readmeUpdate.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}
