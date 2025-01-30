@@ -46,6 +46,7 @@ I'm a developer and researcher passionate about robotics, AI, and software engin
    * VS Code
    * Arduino
    * OpenCV
+   * Web Development
      
  * Hardware/Tools
    * 3D Printers (Bambu Lab A1 Mini)
