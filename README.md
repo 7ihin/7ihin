@@ -17,7 +17,13 @@ I'm a developer and researcher passionate about robotics, AI, and software engin
  * Alliance Award - 2019 World Robot Olympiad Korea (Aug 11)
  * Champion of 3D Printing Hackathon - 2019 Gyeonggi Science Festival (Oct 19)
  
- 
+## Certifications
+
+ * Computer Literacy Level 2
+ * Word Processor Level 1
+ * Electronics Technician
+ * Information Technology Equipment Technician
+ * Electronic CAD Technician
  
    
 ## Interest
