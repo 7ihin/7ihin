@@ -57,7 +57,7 @@ I'm a developer passionate about robotics, AI, and software engineering.
    * VS Code
    * Arduino
    * OpenCV
-   * ROS
+   * ROS/ROS2
      
  * Hardware/Tools
    * 3D Printers (Bambu Lab A1 Mini)
