@@ -1,4 +1,6 @@
-## Hi there 👋
+## About Me
+Hello, I'm Kwon Minjae.
+I'm a developer and researcher passionate about robotics, AI, and software engineering.
 
 <!--
 **7ihin/7ihin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
