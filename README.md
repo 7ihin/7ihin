@@ -1,4 +1,4 @@
-# Hi there 👋
+
 
 ## About Me
 Hello, I'm Kwon Minjae.
