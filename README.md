@@ -25,7 +25,7 @@ I'm a developer passionate about robotics, AI, and software engineering.
  * 🪖 Republic of Korea Army, Signaller, 83rd Tank Battalion (Apr 4, 2022 - Oct 3, 2023)
  * Member, Take Out Embedded Systems Club (Sep 2024 - Present)
  * Member, Pay1oad Security Club (Sep 2024 - Present)
- * Board Member, Baekjoon Gacheon Algorithm Club (Sep 2024 - Present)
+ * Board Member, Baekjoon In Gacheon Algorithm Club (Sep 2024 - Present)
  
 ## Certifications
 
