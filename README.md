@@ -13,7 +13,7 @@ I'm a developer passionate about robotics, AI, and software engineering.
  * Gachon University Department of Future Automotive Engineering (Feb 2021 - Present)
    
 ## Company
- * RoboGates (Mar 2023 - Present)
+ * RoboGate, Hardware Development Intern (Mar 2023 - Present)
 
 ## Activity
  * Champion - Intelligent Robot Competition 2018 Suwon Information & Science Festival (Oct 20)
