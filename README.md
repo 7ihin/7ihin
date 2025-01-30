@@ -1,6 +1,6 @@
 ## About Me
 Hello, I'm Kwon Minjae.
-I'm a developer and researcher passionate about robotics, AI, and software engineering.
+I'm a developer passionate about robotics, AI, and software engineering.
 
 
 ## Introduce
