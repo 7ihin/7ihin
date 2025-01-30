@@ -16,13 +16,13 @@ I'm a developer passionate about robotics, AI, and software engineering.
  * RoboGates, Hardware Development Intern (Mar 2023 - Present)
 
 ## Activity
- * Champion - Intelligent Robot Competition 2018 Suwon Information & Science Festival (Oct 20)
- * Runner-up - LEGO Autonomous Vehicle Competition - 2019 Pangyo Autonomous Motor Show
- * Alliance Award - 2019 World Robot Olympiad Korea (Aug 11)
- * Champion of 3D Printing Hackathon - 2019 Gyeonggi Science Festival (Oct 19)
+ * 🏆 Champion - Intelligent Robot Competition 2018 Suwon Information & Science Festival (Oct 20)
+ * 🏆 Runner-up - LEGO Autonomous Vehicle Competition - 2019 Pangyo Autonomous Motor Show
+ * 🏆 Alliance Award - 2019 World Robot Olympiad Korea (Aug 11)
+ * 🏆 Champion of 3D Printing Hackathon - 2019 Gyeonggi Science Festival (Oct 19)
  * Member, Robotics Club, Suwon Technical High School (Mar 2018 - Sep 2019)
  * President, Robotics Club, Suwon Technical High School (Sep 2019 - Aug 2020)
- * Republic of Korea Army, Communications Soldier, 83rd Tank Battalion (Apr 4, 2022 - Oct 3, 2023)
+ * 🪖 Republic of Korea Army, Communications Soldier, 83rd Tank Battalion (Apr 4, 2022 - Oct 3, 2023)
  * Member, Take Out Embedded Systems Club (Sep 2024 - Present)
  * Member, Pay1oad Security Club (Sep 2024 - Present)
  
