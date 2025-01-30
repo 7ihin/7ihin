@@ -9,8 +9,11 @@ I'm a developer and researcher passionate about robotics, AI, and software engin
  * I enjoy troubleshooting and tackling problems head-on when they arise.
 
 ## School
- * Suwon Technical High School, Department of Electronics and Communication (2018.02 ~ 2020.08)
- * Gachon University Department of Future Automotive Engineering (2021.02 ~ )
+ * Suwon Technical High School, Department of Electronics and Communication (Feb 2018 - Aug 2020)
+ * Gachon University Department of Future Automotive Engineering (Feb 2021 - Present)
+   
+## Company
+ * RoboGates (Mar 2023 - Present)
 
 ## Activity
  * Champion - Intelligent Robot Competition 2018 Suwon Information & Science Festival (Oct 20)
