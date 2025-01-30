@@ -9,6 +9,7 @@ I'm a developer and researcher passionate about robotics, AI, and software engin
  * I enjoy troubleshooting and tackling problems head-on when they arise.
 
 ## School
+ * Suwon Technical High School, Department of Electronics and Communication (2018.02 ~ 2020.08)
  * Gachon University Department of Future Automotive Engineering (2021.02 ~ )
 
 ## Activity
