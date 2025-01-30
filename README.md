@@ -34,6 +34,8 @@ I'm a developer and researcher passionate about robotics, AI, and software engin
    * Java
    * C/C++
    * Lua
+   * HTML
+   * CSS
 
  * Software/Tools
    * Robot Control
