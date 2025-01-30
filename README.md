@@ -4,9 +4,9 @@ I'm a developer and researcher passionate about robotics, AI, and software engin
 
 
 ## Introduce
- * I Enjoy hardware design and assembly. 
- * I like thinking through the structure of code. I also enjoy troubleshooting and tackling problems head-on when they arise.
- * I’m a developer who enjoys reviewing the code inside functions and classes.
+ * I enjoy hardware design and assembly.
+ * I like thinking through the structure of code.
+ * I enjoy troubleshooting and tackling problems head-on when they arise.
 
 ## School
  * Gachon University Department of Future Automotive Engineering (2021.02 ~ )
