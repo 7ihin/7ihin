@@ -27,13 +27,31 @@ I'm a developer and researcher passionate about robotics, AI, and software engin
  
    
 ## Interest
- * Language
-   * C/C++
-   * Java
+ * Programming Languages
    * Python
- * Problem Solving
- * Performance analyze
- * Method analyze
+   * JavaScript
+   * Java
+   * C/C++
+   * Lua
+
+ * Software/Tools
+   * Robot Control
+   * Hardware Design
+   * STM32
+   * Raspberry Pi
+   * Ubuntu
+   * MATLAB
+   * SolidWorks
+   * VS Code
+   * Arduino
+   * OpenCV
+     
+ * Hardware/Tools
+   * 3D Printers (Bambu Lab A1 Mini)
+   * Overhead Hoist Transport (OHT)
+   * Articulated Robot / Robot Arm
+   * AMR (Autonomous Mobile Robot) / AGV (Automated Guided Vehicle)
+ 
 <!--
 **7ihin/7ihin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
