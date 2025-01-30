@@ -2,6 +2,15 @@
 Hello, I'm Kwon Minjae.
 I'm a developer and researcher passionate about robotics, AI, and software engineering.
 
+
+## Introduce
+ * I Enjoy hardware design and assembly. 
+ * I like thinking through the structure of code. I also enjoy troubleshooting and tackling problems head-on when they arise.
+ * I’m a developer who enjoys reviewing the code inside functions and classes.
+
+## School
+ * Gachon University Department of Future Automotive Engineering (2021.02 ~ )
+
 <!--
 **7ihin/7ihin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
