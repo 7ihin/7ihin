@@ -20,7 +20,8 @@ I'm a developer passionate about robotics, AI, and software engineering.
  * Runner-up - LEGO Autonomous Vehicle Competition - 2019 Pangyo Autonomous Motor Show
  * Alliance Award - 2019 World Robot Olympiad Korea (Aug 11)
  * Champion of 3D Printing Hackathon - 2019 Gyeonggi Science Festival (Oct 19)
- * President, Robotics Club, Suwon Technical High School (2019.03 - 2020.08)
+ * Member, Robotics Club, Suwon Technical High School (2018.03 - 2019.09)
+ * President, Robotics Club, Suwon Technical High School (2019.09 - 2020.08)
  * Member, Take Out Embedded Systems Club (Sep 2024 - Present)
  * Member, Pay1oad Security Club (Sep 2024 - Present)
  
