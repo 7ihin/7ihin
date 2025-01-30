@@ -6,7 +6,7 @@ I'm a developer passionate about robotics, AI, and software engineering.
 ## Introduce
  * I enjoy hardware design and assembly.
  * I like thinking through the structure of code.
- * I enjoy troubleshooting and tackling problems head-on when they arise.
+ * I enjoy troubleshooting.
 
 ## School
  * Suwon Technical High School, Department of Electronics and Communication (Feb 2018 - Aug 2020)
