@@ -70,4 +70,4 @@ I'm a developer passionate about robotics, AI, and software engineering.
 
 ## Latest Blog Posts
 
-<a href=https://stanase.tistory.com/22>L298N 모터 드라이버를 활용한 하드웨어 구축 - 1</a></br><a href=https://stanase.tistory.com/21>Port Forwarding on Raspberry Pi</a></br><a href=https://stanase.tistory.com/20>Raspberry Pi 5 OS Configuration Selection</a></br><a href=https://stanase.tistory.com/18>BAEKJOON 20124 Python (B2)</a></br><a href=https://stanase.tistory.com/12>BEAKJOON 4949 Python (S4)</a></br>
+<a href=https://stanase.tistory.com/22>Mini Project - L298N 모터 드라이버를 활용한 하드웨어 구축</a></br><a href=https://stanase.tistory.com/21>Port Forwarding on Raspberry Pi</a></br><a href=https://stanase.tistory.com/20>Raspberry Pi 5 OS Configuration Selection</a></br><a href=https://stanase.tistory.com/18>BAEKJOON 20124 Python (B2)</a></br><a href=https://stanase.tistory.com/12>BEAKJOON 4949 Python (S4)</a></br>
