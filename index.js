@@ -1,5 +1,4 @@
 import { writeFileSync } from 'node:fs';
-import Parser from 'rss-parser';
 
 /**
  * README.MD에 작성될 페이지 텍스트
@@ -75,19 +74,18 @@ I'm a developer passionate about robotics, AI, and software engineering.
 
 `;
 
-const parser = new Parser({
-  headers: {
-    Accept: 'application/rss+xml, application/xml, text/xml; q=0.1',
-  },
-});
-
 (async () => {
-  const feed = await parser.parseURL('www.stanase.com/rss.xml');
-  const items = (feed.items || []).slice(0, 5);
+  const response = await fetch('https://stanase.com/latest-posts.json');
 
-  for (const [index, item] of items.entries()) {
+  if (!response.ok) {
+    throw new Error(`Failed to fetch latest posts: ${response.status}`);
+  }
+
+  const items = await response.json();
+
+  for (const [index, item] of items.slice(0, 5).entries()) {
     const title = item.title || 'Untitled';
-    const link = item.link || 'https://stanase.com';
+    const link = item.url || 'https://stanase.com';
 
     console.log(`${index + 1}번째 게시물`);
     console.log(`추가될 제목: ${title}`);
