@@ -1,9 +1,5 @@
 import { writeFileSync } from 'node:fs';
 
-/**
- * README.MD에 작성될 페이지 텍스트
- * @type {string}
- */
 let text = `
 
 ## About Me
@@ -75,7 +71,12 @@ I'm a developer passionate about robotics, AI, and software engineering.
 `;
 
 (async () => {
-  const response = await fetch('https://stanase.com/latest-posts.json');
+  const response = await fetch('https://stanase.com/latest-posts.json', {
+    headers: {
+      'Accept': 'application/json',
+      'User-Agent': 'Mozilla/5.0 (compatible; GitHubActions/1.0; +https://github.com/7ihin/7ihin)'
+    }
+  });
 
   if (!response.ok) {
     throw new Error(`Failed to fetch latest posts: ${response.status}`);
