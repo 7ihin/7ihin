@@ -82,7 +82,7 @@ const parser = new Parser({
 });
 
 (async () => {
-  const feed = await parser.parseURL('https://stanase.com/rss.xml?cachebust=1');
+  const feed = await parser.parseURL('www.stanase.com/rss.xml');
   const items = (feed.items || []).slice(0, 5);
 
   for (const [index, item] of items.entries()) {
