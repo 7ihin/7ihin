@@ -10,10 +10,10 @@ I am a robotics-oriented developer interested in embedded systems, autonomy, AI,
 - Focused on building practical systems through implementation, testing, and iteration
 
 ## Education
-- Gachon University, Department of Future Automotive Engineering  
-  Feb 2021 - Feb 2026
 - Gachon University Graduate School, Department of Artificial Intelligence, IRASC Lab, M.S. Program
   Mar 3, 2026 - Present
+- Gachon University, Department of Future Automotive Engineering  
+  Feb 2021 - Feb 2026
 
 ## Experience
 - ROBOTIS, Embedded Team Intern  
@@ -34,10 +34,10 @@ I am a robotics-oriented developer interested in embedded systems, autonomy, AI,
   Mar 2018 - Sep 2019
 
 ## Awards
-- Champion, Intelligent Robot Competition, 2018 Suwon Information & Science Festival
-- Runner-up, LEGO Autonomous Vehicle Competition, 2019 Pangyo Autonomous Motor Show
-- Alliance Award, 2019 World Robot Olympiad Korea
 - Champion, 3D Printing Hackathon, 2019 Gyeonggi Science Festival
+- Alliance Award, 2019 World Robot Olympiad Korea
+- Runner-up, LEGO Autonomous Vehicle Competition, 2019 Pangyo Autonomous Motor Show
+- Champion, Intelligent Robot Competition, 2018 Suwon Information & Science Festival
 
 ## Certifications
 - Computer Literacy Level 2
