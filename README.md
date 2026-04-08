@@ -15,7 +15,7 @@ I'm a developer passionate about robotics, AI, and software engineering.
  * Gachon University Department of Future Automotive Engineering (Feb 2021 - Present)
    
 ## Company
- * RoboGates, Hardware Development Intern (Mar 2023 - Present)
+ * RoboGates, Hardware Development Intern (Mar 2023 - Jul 2025)
 
 ## Activity
  * 🏆 Champion - Intelligent Robot Competition 2018 Suwon Information & Science Festival (Oct 20)
@@ -25,8 +25,8 @@ I'm a developer passionate about robotics, AI, and software engineering.
  * Member, Robotics Club, Suwon Technical High School (Mar 2018 - Sep 2019)
  * President, Robotics Club, Suwon Technical High School (Sep 2019 - Aug 2020)
  * 🪖 Republic of Korea Army, Signaller, 83rd Tank Battalion (Apr 4, 2022 - Oct 3, 2023)
- * Member, Take Out Embedded Systems Club (Sep 2024 - Present)
- * Member, Pay1oad Security Club (Sep 2024 - Present)
+ * Member, Pay1oad Security Club (Sep 2024 - Jul 2025)
+ * Executive Member, Take Out Embedded Systems Club (Sep 2024 - Present)
  * Executive Member, Baekjoon In Gacheon Algorithm Club (Sep 2024 - Present)
  
 ## Certifications
@@ -70,4 +70,4 @@ I'm a developer passionate about robotics, AI, and software engineering.
 
 ## Latest Blog Posts
 
-<a href=https://stanase.tistory.com/23>Mini Project (2) 자율주행을 위한 OpenCV 기능분석</a></br><a href=https://stanase.tistory.com/22>Mini Project (1) L298N 모터 드라이버를 활용한 하드웨어 구축</a></br><a href=https://stanase.tistory.com/21>Port Forwarding on Raspberry Pi</a></br><a href=https://stanase.tistory.com/20>Raspberry Pi 5 OS Configuration Selection</a></br><a href=https://stanase.tistory.com/18>BAEKJOON 20124 Python (B2)</a></br>
+<a href=https://stanase.tistory.com/23>자율주행을 위한 OpenCV 기능분석</a></br><a href=https://stanase.tistory.com/21>Port Forwarding on Raspberry Pi</a></br><a href=https://stanase.tistory.com/20>Raspberry Pi 5 OS Configuration Selection</a></br><a href=https://stanase.tistory.com/18>BAEKJOON 20124 Python (B2)</a></br><a href=https://stanase.tistory.com/12>BEAKJOON 4949 Python (S4)</a></br>
