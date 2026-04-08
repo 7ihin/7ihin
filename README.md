@@ -62,4 +62,4 @@ I am a robotics-oriented developer interested in embedded systems, autonomy, AI,
 
 ## Latest Blog Posts
 
-<a href="https://stanase.com/posts/opencv-lane-detection-basics">OpenCV Lane Detection Basics</a></br>
+<a href="https://stanase.com/posts/deep-learning-overview">Translation in progress</a></br><a href="https://stanase.com/posts/opencv-lane-detection-basics">OpenCV Lane Detection Basics</a></br>
