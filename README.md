@@ -62,4 +62,4 @@ I am a robotics-oriented developer interested in embedded systems, autonomy, AI,
 
 ## Latest Blog Posts
 
-<a href="https://stanase.com/posts/types-of-gears-1-parallel-shaft-gears/">기어의 종류 1 - 평행축 기어</a></br><a href="https://stanase.com/posts/types-and-principles-of-motors-slip-ring/">모터의 종류와 원리 - 슬립링</a></br><a href="https://stanase.com/posts/servo-motor-basic/">모터의 종류와 원리 - Servo모터 - 이론</a></br><a href="https://stanase.com/posts/qdd-motor-quasi-direct-drive-explained/">모터의 종류와 원리 - QDD모터 - 이론</a></br><a href="https://stanase.com/posts/bldc-motor-structure-and-principle/">모터의 종류와 원리 - BLDC모터 - 이론</a></br>
+<a href="https://stanase.com/posts/types-of-gears-2-cross-shaft-gears/">기어의 종류 2 - 교차축 기어</a></br><a href="https://stanase.com/posts/types-of-gears-1-parallel-shaft-gears/">기어의 종류 1 - 평행축 기어</a></br><a href="https://stanase.com/posts/types-and-principles-of-motors-slip-ring/">모터의 종류와 원리 - 슬립링</a></br><a href="https://stanase.com/posts/servo-motor-basic/">모터의 종류와 원리 - Servo모터 - 이론</a></br><a href="https://stanase.com/posts/qdd-motor-quasi-direct-drive-explained/">모터의 종류와 원리 - QDD모터 - 이론</a></br>
