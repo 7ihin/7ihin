@@ -62,4 +62,4 @@ I am a robotics-oriented developer interested in embedded systems, autonomy, AI,
 
 ## Latest Blog Posts
 
-<a href="https://stanase.com/posts/control-1-inverse-kinematics-ik-and-pid-theory/">제어 1 - 역기구학(IK)와 PID 이론</a></br><a href="https://stanase.com/posts/types-of-gears-4-special-gears/">기어의 종류 4 -특수기어</a></br><a href="https://stanase.com/posts/types-of-gears-3-helical-gears/">기어의 종류 3 - 엇갈림축 기어</a></br><a href="https://stanase.com/posts/types-of-gears-2-cross-shaft-gears/">기어의 종류 2 - 교차축 기어</a></br><a href="https://stanase.com/posts/types-of-gears-1-parallel-shaft-gears/">기어의 종류 1 - 평행축 기어</a></br>
+<a href="https://stanase.com/posts/control-2-principles-of-standard-pid-feedback-control/">제어 2 - 피드백 제어의 표준 PID의 원리</a></br><a href="https://stanase.com/posts/control-1-inverse-kinematics-ik-and-pid-theory/">제어 1 - 역기구학(IK)와 PID 이론</a></br><a href="https://stanase.com/posts/types-of-gears-4-special-gears/">기어의 종류 4 -특수기어</a></br><a href="https://stanase.com/posts/types-of-gears-3-helical-gears/">기어의 종류 3 - 엇갈림축 기어</a></br><a href="https://stanase.com/posts/types-of-gears-2-cross-shaft-gears/">기어의 종류 2 - 교차축 기어</a></br>
