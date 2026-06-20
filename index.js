@@ -5,10 +5,6 @@ const header = `<div align="center">
 
 <!-- ───────────────────────────  HEADER  ─────────────────────────── -->
 
-<a href="https://github.com/7ihin">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=22D3EE&center=true&vCenter=true&width=620&lines=Robotics-oriented+Developer;Embedded+%C2%B7+Autonomy+%C2%B7+AI+%C2%B7+Computer+Vision;Building+practical+robots%2C+one+iteration+at+a+time" alt="Typing SVG" />
-</a>
-
 # 🤖 LEO · Kwon Minjae
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/7ihin)
@@ -54,12 +50,17 @@ I like building practical systems through implementation, testing, and iteration
 
 <!-- ───────────────────────────  EXPERIENCE / EDUCATION  ─────────────────────────── -->
 
-## 💼 Experience &nbsp;·&nbsp; 🎓 Education
+## 💼 Experience
 
-| 💼 Experience | 🎓 Education |
-| :--- | :--- |
-| **ROBOTIS** — Embedded Team Intern<br/><sub>Dec 2025 – Feb 2026</sub> | **Gachon Univ. Graduate School** — M.S., AI (IRASC Lab)<br/><sub>Mar 2026 – Present</sub> |
-| **RoboGates** — Hardware Dev Intern<br/><sub>Mar 2023 – Jul 2025</sub> | **Gachon Univ.** — B.S., Future Automotive Eng.<br/><sub>Feb 2021 – Feb 2026</sub> |
+- **ROBOTIS** — Embedded Team Intern &nbsp;·&nbsp; <sub>Dec 2025 – Feb 2026</sub>
+- **RoboGates** — Hardware Development Intern &nbsp;·&nbsp; <sub>Mar 2023 – Jul 2025</sub>
+
+<br/>
+
+## 🎓 Education
+
+- **Gachon Univ. Graduate School** — M.S., Artificial Intelligence (IRASC Lab) &nbsp;·&nbsp; <sub>Mar 2026 – Present</sub>
+- **Gachon University** — B.S., Future Automotive Engineering &nbsp;·&nbsp; <sub>Feb 2021 – Feb 2026</sub>
 
 <br/>
 
@@ -73,8 +74,6 @@ I like building practical systems through implementation, testing, and iteration
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7ihin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=7ihin&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=7ihin&theme=tokyo-night&hide_border=true&area=true&color=22D3EE&line=22D3EE&point=FFFFFF" />
 
 </div>
 
@@ -122,16 +121,6 @@ I like building practical systems through implementation, testing, and iteration
 const footer = `<!-- BLOG-POST-LIST:END -->
 
 ➡️ More at **[stanase.com](https://stanase.com)**
-
-<br/>
-
-<!-- ───────────────────────────  SNAKE  ─────────────────────────── -->
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/7ihin/7ihin/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-
-</div>
 `;
 
 (async () => {
