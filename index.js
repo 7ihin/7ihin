@@ -7,15 +7,17 @@ const header = `<div align="center">
 
 # 🤖 LEO · Kwon Minjae
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/7ihin)
+[![Blog](https://img.shields.io/badge/Blog-22D3EE?style=for-the-badge&logo=rss&logoColor=white)](https://stanase.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minmj0815@gachon.ac.kr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EB%AF%BC%EC%9E%AC-%EA%B6%8C-6047a9302/)
 ![Profile Views](https://komarev.com/ghpvc/?username=7ihin&style=for-the-badge&color=22D3EE&label=PROFILE+VIEWS)
 
 <!-- ───────────────────────────  ABOUT  ─────────────────────────── -->
 
 ### M.S. @ IRASC Lab, Gachon University
 
-A robotics-oriented developer working across **embedded systems · autonomy · AI · computer vision**.<br/>
-I like building practical systems through implementation, testing, and iteration.
+Robotics engineer working across the full stack — **mechanical design → embedded firmware → ROS → high-level control & autonomy.**<br/>
+I like turning hardware into systems that actually move: design it, build it, test it, iterate.
 
 </div>
 
@@ -31,7 +33,7 @@ I like building practical systems through implementation, testing, and iteration
 | :------: | :---- |
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) |
 | **Embedded & HW** | ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white) |
-| **Robotics & Vision** | ![ROS](https://img.shields.io/badge/ROS%2FROS2-22314E?style=for-the-badge&logo=ros&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white) ![SolidWorks](https://img.shields.io/badge/SolidWorks-E2231A?style=for-the-badge&logoColor=white) |
+| **Robotics & Vision** | ![ROS](https://img.shields.io/badge/ROS%2FROS2-22314E?style=for-the-badge&logo=ros&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white) ![SolidWorks](https://img.shields.io/badge/SolidWorks-E2231A?style=for-the-badge&logo=dassaultsystemes&logoColor=white) |
 | **Tools & OS** | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 
 </div>
