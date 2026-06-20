@@ -1,0 +1,19 @@
+name: Update productive-box gist
+
+on:
+  # Run every day at 00:00 UTC
+  schedule:
+    - cron: "0 0 * * *"
+  # Allow manual run from the Actions tab (use this for the first run)
+  workflow_dispatch:
+
+jobs:
+  update-gist:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update gist with most productive hours
+        uses: maxam2017/productive-box@master
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}   # PAT with `gist` + `repo` scopes
+          GIST_ID: ${{ secrets.GIST_ID }}     # ID part of your gist URL
+          TIMEZONE: Asia/Seoul
