@@ -114,11 +114,11 @@ I like turning hardware into systems that actually move: design it, build it, te
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [제어 3 — 역기구학 수식 직접 풀기 + PID](https://stanase.com/posts/control-3-inverse-kinematics-derivation/)
 - [제어 2 - 피드백 제어의 표준 PID의 원리](https://stanase.com/posts/control-2-principles-of-standard-pid-feedback-control/)
 - [제어 1 - 역기구학(IK)와 PID 이론](https://stanase.com/posts/control-1-inverse-kinematics-ik-and-pid-theory/)
 - [기어의 종류 4 -특수기어](https://stanase.com/posts/types-of-gears-4-special-gears/)
 - [기어의 종류 3 - 엇갈림축 기어](https://stanase.com/posts/types-of-gears-3-helical-gears/)
-- [기어의 종류 2 - 교차축 기어](https://stanase.com/posts/types-of-gears-2-cross-shaft-gears/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ More at **[stanase.com](https://stanase.com)**
