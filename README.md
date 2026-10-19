@@ -1,35 +1,84 @@
 <div align="center">
 
+<!-- ───────────────────────────  HEADER  ─────────────────────────── -->
+
 # 🤖 LEO · Kwon Minjae
 
-**M.S. @ IRASC Lab, Gachon University**
+[![Blog](https://img.shields.io/badge/Blog-22D3EE?style=for-the-badge&logo=rss&logoColor=white)](https://stanase.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minmj0815@gachon.ac.kr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EB%AF%BC%EC%9E%AC-%EA%B6%8C-6047a9302/)
+![Profile Views](https://komarev.com/ghpvc/?username=7ihin&style=for-the-badge&color=22D3EE&label=PROFILE+VIEWS)
+
+<!-- ───────────────────────────  ABOUT  ─────────────────────────── -->
+
+### M.S. @ IRASC Lab, Gachon University
 
 Robotics engineer working across the full stack — **mechanical design → embedded firmware → ROS → high-level control & autonomy.**<br/>
 I like turning hardware into systems that actually move: design it, build it, test it, iterate.
 
-[![Blog](https://img.shields.io/badge/Blog-22D3EE?style=flat-square&logo=rss&logoColor=white)](https://stanase.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:minmj0815@gachon.ac.kr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EB%AF%BC%EC%9E%AC-%EA%B6%8C-6047a9302/)
+</div>
+
+<br/>
+
+<!-- ───────────────────────────  TECH STACK  ─────────────────────────── -->
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+| Category | Stack |
+| :------: | :---- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) |
+| **Embedded & HW** | ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white) |
+| **Robotics & Vision** | ![ROS](https://img.shields.io/badge/ROS%2FROS2-22314E?style=for-the-badge&logo=ros&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white) ![SolidWorks](https://img.shields.io/badge/SolidWorks-E2231A?style=for-the-badge&logo=dassaultsystemes&logoColor=white) |
+| **Tools & OS** | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 
 </div>
 
----
+<br/>
+
+<!-- ───────────────────────────  CURRENTLY  ─────────────────────────── -->
 
 ## 🔭 Currently
 
-- Working on **multi-camera RL** for ROI monitoring @ IRASC Lab
-- Diving into **sim-to-real** & autonomous systems
-- Ask me about **robotics · embedded · ROS2**
+- 🔭 Working on **multi-camera RL** for ROI monitoring @ IRASC Lab
+- 🌱 Diving into **sim-to-real** & autonomous systems
+- 💬 Ask me about **robotics · embedded · ROS2**
+
+<br/>
+
+<!-- ───────────────────────────  EXPERIENCE / EDUCATION  ─────────────────────────── -->
 
 ## 💼 Experience
 
 - **ROBOTIS** — Embedded Team Intern &nbsp;·&nbsp; <sub>Dec 2025 – Feb 2026</sub>
 - **RoboGates** — Hardware Development Intern &nbsp;·&nbsp; <sub>Mar 2023 – Jul 2025</sub>
 
+<br/>
+
 ## 🎓 Education
 
 - **Gachon Univ. Graduate School** — M.S., Artificial Intelligence (IRASC Lab) &nbsp;·&nbsp; <sub>Mar 2026 – Present</sub>
 - **Gachon University** — B.S., Future Automotive Engineering &nbsp;·&nbsp; <sub>Feb 2021 – Feb 2026</sub>
+
+<br/>
+
+<!-- ───────────────────────────  GITHUB STATS  ─────────────────────────── -->
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=7ihin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7ihin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=7ihin&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br/>
+
+<!-- ───────────────────────────  HIGHLIGHTS  ─────────────────────────── -->
 
 ## 🏆 Highlights
 
@@ -39,7 +88,7 @@ I like turning hardware into systems that actually move: design it, build it, te
 - 🥇 **Champion** — 3D Printing Hackathon, 2019 Gyeonggi Science Festival
 
 <details>
-<summary><b>More activities &amp; certifications</b></summary>
+<summary><b>▸ More activities &amp; certifications</b></summary>
 
 <br/>
 
@@ -58,40 +107,18 @@ I like turning hardware into systems that actually move: design it, build it, te
 
 </details>
 
-## 🛠 Tech Stack
+<br/>
 
-**Languages** &nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
-
-**Embedded & HW** &nbsp;
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
-
-**Robotics & Vision** &nbsp;
-![ROS](https://img.shields.io/badge/ROS%2FROS2-22314E?style=flat-square&logo=ros&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-E2231A?style=flat-square&logo=dassaultsystemes&logoColor=white)
-
-**Tools & OS** &nbsp;
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<!-- ───────────────────────────  BLOG  ─────────────────────────── -->
 
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [통신 1 - CAN](https://stanase.com/posts/1-can/)
+- [Deep Residual Learning for Image Recognition](https://stanase.com/posts/deep-residual-learning-for-image-recognition/)
 - [제어 3 - 역기구학 수식 직접 풀기 + PID](https://stanase.com/posts/control-3-inverse-kinematics-derivation/)
 - [제어 2 - 피드백 제어의 표준 PID의 원리](https://stanase.com/posts/control-2-principles-of-standard-pid-feedback-control/)
 - [제어 1 - 역기구학(IK)와 PID 이론](https://stanase.com/posts/control-1-inverse-kinematics-ik-and-pid-theory/)
-- [기어의 종류 4 - 특수기어](https://stanase.com/posts/types-of-gears-4-special-gears/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ More at **[stanase.com](https://stanase.com)**
