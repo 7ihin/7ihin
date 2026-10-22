@@ -114,11 +114,11 @@ I like turning hardware into systems that actually move: design it, build it, te
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [You Only Look Once: Unified, Real-Time Object Detection](https://stanase.com/posts/you-only-look-once-unified-real-time-object-detection/)
 - [통신 1 - CAN](https://stanase.com/posts/1-can/)
 - [Deep Residual Learning for Image Recognition](https://stanase.com/posts/deep-residual-learning-for-image-recognition/)
 - [제어 3 - 역기구학 수식 직접 풀기 + PID](https://stanase.com/posts/control-3-inverse-kinematics-derivation/)
 - [제어 2 - 피드백 제어의 표준 PID의 원리](https://stanase.com/posts/control-2-principles-of-standard-pid-feedback-control/)
-- [제어 1 - 역기구학(IK)와 PID 이론](https://stanase.com/posts/control-1-inverse-kinematics-ik-and-pid-theory/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ More at **[stanase.com](https://stanase.com)**
