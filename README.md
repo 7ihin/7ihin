@@ -114,11 +114,11 @@ I like turning hardware into systems that actually move: design it, build it, te
 ## ✍️ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [신경망이란 무엇인가](https://stanase.com/posts/what-is-a-neural-network/)
 - [Microduck 1 - 첫걸음 떼기](https://stanase.com/posts/microduck-build-log/)
 - [You Only Look Once: Unified, Real-Time Object Detection](https://stanase.com/posts/you-only-look-once-unified-real-time-object-detection/)
 - [통신 1 - CAN](https://stanase.com/posts/1-can/)
 - [Deep Residual Learning for Image Recognition](https://stanase.com/posts/deep-residual-learning-for-image-recognition/)
-- [제어 3 - 역기구학 수식 직접 풀기 + PID](https://stanase.com/posts/control-3-inverse-kinematics-derivation/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ More at **[stanase.com](https://stanase.com)**
