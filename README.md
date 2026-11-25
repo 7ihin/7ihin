@@ -1,124 +1,102 @@
-<div align="center">
+# LEO · Kwon Minjae
 
-<!-- ───────────────────────────  HEADER  ─────────────────────────── -->
+Robotics engineer and M.S. student at IRASC Lab, Gachon University, working on reinforcement learning for multi-camera PTZ control.
+I work across the stack, from mechanical design and embedded firmware to ROS, control and autonomy, and I like turning hardware into systems that actually move: design it, build it, test it, iterate.
 
-# 🤖 LEO · Kwon Minjae
+**1,350** commits since Jan 2025 · **99** days with a commit · **15** repositories (12 private) · **271,270** lines of code, 49 % Python · **19** blog posts
 
-[![Blog](https://img.shields.io/badge/Blog-22D3EE?style=for-the-badge&logo=rss&logoColor=white)](https://stanase.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minmj0815@gachon.ac.kr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EB%AF%BC%EC%9E%AC-%EA%B6%8C-6047a9302/)
-![Profile Views](https://komarev.com/ghpvc/?username=7ihin&style=for-the-badge&color=22D3EE&label=PROFILE+VIEWS)
+[stanase.com ↗](https://stanase.com) · [minmj0815@gachon.ac.kr](mailto:minmj0815@gachon.ac.kr) · [LinkedIn ↗](https://www.linkedin.com/in/%EB%AF%BC%EC%9E%AC-%EA%B6%8C-6047a9302/)
 
-<!-- ───────────────────────────  ABOUT  ─────────────────────────── -->
+## Timeline
 
-### M.S. @ IRASC Lab, Gachon University
+| When | Length | Role | Where |
+|:--|--:|:--|:--|
+| 2026.03 – now | 9 mo | **M.S. student, Artificial Intelligence** | Gachon University · IRASC Lab |
+| 2025.12 – 2026.02 | 3 mo | **Embedded Team Intern** | ROBOTIS |
+| 2023.03 – 2025.07 | 2 yr 5 mo | **Hardware Development Intern** | RoboGates |
+| 2022.04 – 2023.10 | – | Signaller, military service | ROK Army · 83rd Tank Battalion |
+| 2021.02 – 2026.02 | – | B.S., Future Automotive Engineering | Gachon University |
 
-Robotics engineer working across the full stack — **mechanical design → embedded firmware → ROS → high-level control & autonomy.**<br/>
-I like turning hardware into systems that actually move: design it, build it, test it, iterate.
+## Numbers
 
-</div>
+<!-- STATS:START -->
+| | 2025 | 2026 | Total |
+|:--|--:|--:|--:|
+| Commits | 45 | 1,305 | 1,350 |
+| Days with a commit | 7 | 92 | 99 |
+| Repositories | 2 | 15 | 15 |
+| Code lines added | 230 | 271,040 | 271,270 |
+| Code lines deleted | 122 | 49,604 | 49,726 |
 
-<br/>
+**Commits per month**
 
-<!-- ───────────────────────────  TECH STACK  ─────────────────────────── -->
+| Dec<br>25 | Jan<br>26 | Feb<br>26 | Mar<br>26 | Apr<br>26 | May<br>26 | Jun<br>26 | Jul<br>26 | Aug<br>26 | Sep<br>26 | Oct<br>26 | Nov<br>26 |
+|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|--:|
+| 0 | 0 | 0 | 0 | 37 | 141 | 55 | 53 | 145 | 447 | 318 | 109 |
 
-## 🛠 Tech Stack
+**Code by language**
 
-<div align="center">
+| Language | Lines added | Lines deleted | Share | Repositories |
+|:--|--:|--:|--:|--:|
+| Python | 134,134 | 21,911 | 49.4 % | 11 |
+| JavaScript | 53,780 | 10,595 | 19.8 % | 7 |
+| TypeScript | 49,497 | 10,169 | 18.2 % | 3 |
+| CSS | 19,277 | 4,955 | 7.1 % | 5 |
+| Java | 5,751 | 220 | 2.1 % | 2 |
+| HTML | 4,709 | 1,676 | 1.7 % | 6 |
+| Shell | 2,948 | 175 | 1.1 % | 10 |
+| C/C++ | 772 | 6 | 0.3 % | 1 |
+| Other (Swift, Lua) | 402 | 19 | 0.1 % | 2 |
+<!-- STATS:END -->
 
-| Category | Stack |
-| :------: | :---- |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) |
-| **Embedded & HW** | ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white) |
-| **Robotics & Vision** | ![ROS](https://img.shields.io/badge/ROS%2FROS2-22314E?style=for-the-badge&logo=ros&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white) ![SolidWorks](https://img.shields.io/badge/SolidWorks-E2231A?style=for-the-badge&logo=dassaultsystemes&logoColor=white) |
-| **Tools & OS** | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+## Projects
 
-</div>
+| Project | Posts | What it is | Built with |
+|:--|--:|:--|:--|
+| [Microduck · Gwakgwak](https://stanase.com/projects/microduck/) | 1 | Building Pollen Robotics’ open-source bipedal robot and teaching it to walk with a reinforcement-learning policy. | Raspberry Pi 4, Dynamixel XL330, ONNX Runtime, mjlab |
+| [RL-based PTZ Multi-Camera Control](https://stanase.com/projects/rl-ptz-multi-control/) | – | Research at IRASC Lab: controlling several PTZ cameras with reinforcement learning to improve tracking quality and coordination. | – |
+| [Robotics Fundamentals Study 2026](https://stanase.com/projects/robotics-hardware-study-2026/) | 12 | Hardware team study notes: DC/BLDC/QDD motors, PID and MPC control, inverse kinematics, CAD, up to a robot-arm pick-and-place build. | ROS 2, Dynamixel XL330, Fusion 360, Python, PID, MPC |
+| [Autonomous Driving Lane Study](https://stanase.com/projects/autonomous-driving-lane-study/) | 1 | Lane detection, motor control and lightweight autonomy on constrained hardware. | – |
+| [Stanase](https://stanase.com/projects/stanase-archive/) | 19 | This blog, written in Korean and English, with its own editor. | React, TypeScript, Vite, Three.js |
 
-<br/>
+## Awards
 
-<!-- ───────────────────────────  CURRENTLY  ─────────────────────────── -->
-
-## 🔭 Currently
-
-- 🔭 Working on **multi-camera RL** for ROI monitoring @ IRASC Lab
-- 🌱 Diving into **sim-to-real** & autonomous systems
-- 💬 Ask me about **robotics · embedded · ROS2**
-
-<br/>
-
-<!-- ───────────────────────────  EXPERIENCE / EDUCATION  ─────────────────────────── -->
-
-## 💼 Experience
-
-- **ROBOTIS** — Embedded Team Intern &nbsp;·&nbsp; <sub>Dec 2025 – Feb 2026</sub>
-- **RoboGates** — Hardware Development Intern &nbsp;·&nbsp; <sub>Mar 2023 – Jul 2025</sub>
-
-<br/>
-
-## 🎓 Education
-
-- **Gachon Univ. Graduate School** — M.S., Artificial Intelligence (IRASC Lab) &nbsp;·&nbsp; <sub>Mar 2026 – Present</sub>
-- **Gachon University** — B.S., Future Automotive Engineering &nbsp;·&nbsp; <sub>Feb 2021 – Feb 2026</sub>
-
-<br/>
-
-<!-- ───────────────────────────  GITHUB STATS  ─────────────────────────── -->
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=7ihin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7ihin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=7ihin&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br/>
-
-<!-- ───────────────────────────  HIGHLIGHTS  ─────────────────────────── -->
-
-## 🏆 Highlights
-
-- 🥇 **Champion** — Intelligent Robot Competition, 2018 Suwon Information & Science Festival
-- 🤝 **Alliance Award** — 2019 World Robot Olympiad Korea
-- 🥈 **Runner-up** — LEGO Autonomous Vehicle Competition, 2019 Pangyo Autonomous Motor Show
-- 🥇 **Champion** — 3D Printing Hackathon, 2019 Gyeonggi Science Festival
+| Year | Result | Competition |
+|:--|:--|:--|
+| 2019 | **Champion** | 3D Printing Hackathon, Gyeonggi Science Festival |
+| 2019 | Runner-up | LEGO Autonomous Vehicle Competition, Pangyo Autonomous Motor Show |
+| 2019 | Alliance Award | World Robot Olympiad Korea |
+| 2018 | **Champion** | Intelligent Robot Competition, Suwon Information & Science Festival |
 
 <details>
-<summary><b>▸ More activities &amp; certifications</b></summary>
+<summary>Clubs and certifications</summary>
 
-<br/>
+| When | Role | Club |
+|:--|:--|:--|
+| 2024.09 – 2026.01 | Executive member | *Take Out*, embedded systems club |
+| 2024.09 – 2025.08 | Member | *Pay1oad*, security club |
+| 2018 – 2020 | President, then member | Robotics club, Suwon Technical High School |
 
-**Activities**
-- Executive Member, *Take Out* Embedded Systems Club — Sep 2024 – Jan 2026
-- Member, *Pay1oad* Security Club — Sep 2024 – Aug 2025
-- ROK Army, Signaller, 83rd Tank Battalion — Apr 2022 – Oct 2023
-- President → Member, Robotics Club, Suwon Technical High School — 2018 – 2020
-
-**Certifications**
-- Electronics Technician
-- Electronic CAD Technician
-- Information Technology Equipment Technician
-- Word Processor Level 1
-- Computer Literacy Level 2
+Certifications: Electronics Technician · Electronic CAD Technician · Information Technology Equipment Technician · Word Processor Level 1 · Computer Literacy Level 2
 
 </details>
 
-<br/>
+## Stack
 
-<!-- ───────────────────────────  BLOG  ─────────────────────────── -->
+- **Languages** — Python, TypeScript / JavaScript, Java, C++, C, Lua
+- **Embedded and hardware** — STM32, Raspberry Pi, Arduino, Dynamixel
+- **Robotics and vision** — ROS / ROS 2, mjlab, OpenCV, MATLAB
+- **CAD** — SolidWorks, Fusion 360
+- **Tools** — Ubuntu, Git, VS Code
 
-## ✍️ Latest Blog Posts
+## Writing
 
 <!-- BLOG-POST-LIST:START -->
-- [딥러닝 기초와 Nearest Neighbor Classifiers](https://stanase.com/posts/fundamentals-of-deep-learning-and-nearest-neighbor-classifiers/)
-- [신경망이란 무엇인가](https://stanase.com/posts/what-is-a-neural-network/)
-- [Microduck 1 - 첫걸음 떼기](https://stanase.com/posts/microduck-build-log/)
-- [You Only Look Once: Unified, Real-Time Object Detection](https://stanase.com/posts/you-only-look-once-unified-real-time-object-detection/)
-- [통신 1 - CAN](https://stanase.com/posts/1-can/)
+- 2026-11-05 · [딥러닝 기초와 Nearest Neighbor Classifiers](https://stanase.com/posts/fundamentals-of-deep-learning-and-nearest-neighbor-classifiers/)
+- 2026-11-04 · [신경망이란 무엇인가](https://stanase.com/posts/what-is-a-neural-network/)
+- 2026-11-03 · [Microduck 1 - 첫걸음 떼기](https://stanase.com/posts/microduck-build-log/)
+- 2026-10-22 · [You Only Look Once: Unified, Real-Time Object Detection](https://stanase.com/posts/you-only-look-once-unified-real-time-object-detection/)
+- 2026-10-20 · [통신 1 - CAN](https://stanase.com/posts/1-can/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ More at **[stanase.com](https://stanase.com)**
+More at [stanase.com ↗](https://stanase.com)
