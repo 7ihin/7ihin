@@ -1,0 +1,45 @@
+name: Stats Update
+
+on:
+  schedule:
+    - cron: "30 15 * * *"   # 00:30 KST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: readme
+  cancel-in-progress: false
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Count commits and code lines in all my repositories
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}   # PAT with `repo` scope (also used by productive-box)
+        run: python3 stats.py --out stats.md
+
+      - name: Update README
+        run: npm start
+
+      - name: Commit
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add stats.md stats.json README.md
+          git diff --cached --quiet && exit 0
+          git commit -m "Update stats"
+          git pull --rebase origin main
+          git push origin main
